@@ -1,4 +1,4 @@
-# 🧮 Calculator – Python
+# 🧮 Calculator 
 
 A simple and clean command-line based calculator built using Python.
 This project performs basic arithmetic operations and is perfect for beginners learning Python fundamentals.
@@ -8,7 +8,7 @@ This project performs basic arithmetic operations and is perfect for beginners l
 ## 📁 Project Structure
 
 ```
-📁 Calculator-Python
+📁 Calculator
 │── calculator.py
 │── output.txt
 │── README.md
@@ -52,7 +52,7 @@ By exploring this project, you will get a clear understanding of:
 
 ---
 
-## 🚀 Future Improvements (If you want to upgrade later)
+## 🚀 Future Improvements 
 
 * Add error-handling for division by zero
 * Build a GUI version using Tkinter / PyQt

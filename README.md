@@ -11,39 +11,15 @@ It is a simple command-line project created to practice Python fundamentals.
 - ➗ Division  
 - 🚫 Handles invalid inputs  
 - 🔁 Runs until the user chooses to exit  
-
-
-## 📌 How to Run the Program
-
-1. Make sure Python is installed.  
-   Check using:  
-   ```bash
-   python --version
-   ```
-
-2. Download or clone this repository:
-   ```bash
-   git clone <your-repo-link>
-   ```
-
-3. Navigate to the project folder:
-   ```bash
-   cd calculator
-   ```
-
-4. Run the Python file:
-   ```bash
-   python calculator.py
-   ```
-
----
+------
 
 ## 📂 Project Structure
 ```
 calculator/
 │
 ├── calculator.py    # Main program
-└── README.md        # Project documentation
+└── README.md       # Project documentation
+|___ calculator_output  # an example output
 ```
 
 ---

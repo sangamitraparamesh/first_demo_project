@@ -20,7 +20,6 @@ calculator/
 ├── calculator.py    # Main program
 └── README.md       # Project documentation
 |___ calculator_output  # an example output
-```
 
 ---
 
